@@ -1,0 +1,12 @@
+#} function banane ke liye 5 chize yaad rakhna
+    01 => function keyword => function
+    02 => function name => showMessage
+    03 => parantehsis => ()
+    04 => function body => {}
+    05 => calling function => showMessage();
+    <script>
+        function showMessage(){
+            console.log("Hello")
+        }
+        showMessage();
+    </script>
